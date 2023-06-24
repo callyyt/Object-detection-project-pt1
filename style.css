@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.header
+{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  box-shadow: 5px 5px 5px rgb(202, 234, 143);
+  background-color: rgb(175, 214, 102);
+  border-color: rgb(202, 234, 143);
+}
+
+.header:hover{
+    width: 220px;
+}
+
+.link {
+    font-size: 20px;
+    background: rgb(226, 239, 168);
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration:wavy;
+}
